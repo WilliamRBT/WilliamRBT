@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou [Seu Nome]  
-
 🎓 Estudante de **Sistemas de Informação**  
 🔐 Interessado em **Segurança da Informação**  
 ⚙️ Explorando também **Desenvolvimento**, **Banco de Dados** e **Cloud Computing**  
